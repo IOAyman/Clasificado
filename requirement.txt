@@ -1,0 +1,5 @@
+imaplib
+email
+smtplib
+smtplib
+watson_developer_cloud
