@@ -78,7 +78,7 @@ def main():
                 else:
                     print 'spam detected'
         now = datetime.datetime.now()
-        if  now.day == 1 and now.hour == 12 and now.minutes == 01:
+        if  now.day == 9 and now.hour == 17 and now.minute == 40:
             mail_dict = {1:{ "comp":0 ,"op":0 },2:{ "comp":0 ,"op":0 },3:{ "comp":0 ,"op":0 },4:{ "comp":0 ,"op":0 },5:{ "comp":0 ,"op":0 }}
             posts, db = db_func.it(posts, db, mail_dict)
                 

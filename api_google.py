@@ -16,7 +16,7 @@ def check_new_mail(issue_no, posts, db):
     if 'attachments' not in os.listdir(detach_dir):
         os.mkdir('attachments')
     mail = imaplib.IMAP4_SSL('imap.gmail.com')
-    mail.login('complaints.iiitv@gmail.com', 'Pass123!@#')
+    mail.login('complaints.iiitv@gmail.com', '*****')
     mail.list()
     # Out: list of "folders" aka labels in gmail.
     mail.select("inbox")  # connect to inbox.

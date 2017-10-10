@@ -14,7 +14,7 @@ def send_mail(to_id, subject, body, attach_path):
     from email.mime.text import MIMEText
 
     from_id = 'complaints.iiitv@gmail.com'
-    from_password = 'Pass123!@#'
+    from_password = '****'
 
     msg = MIMEMultipart()
     msg['From'] = from_id
