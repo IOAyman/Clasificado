@@ -28,7 +28,7 @@ IBM Watson Conversations
 [Heet Sankesara](https://github.com/Hsankesara) |
 [Shivam Saboo](https://github.com/shivamsaboo17) | 
 [Aman Yadav](https://github.com/amany9000) | 
-Rohan Dhoot | 
+[Rohan Dhoot](https://github.com/rohan2599) | 
 [Ajay Guru](https://github.com/guru-DeV-002)
 
 ### watch working demo on youtube:
